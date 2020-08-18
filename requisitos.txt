@@ -1,0 +1,5 @@
+O sistema deve fazer autenticação de usuario. 
+O sistema deve alocar o carro voador mais proximo do usuario
+O sistema deve analisar usuario com com destinos em trajetos comuns para compartilhamento de 
+corrida.  
+  
