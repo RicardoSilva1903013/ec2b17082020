@@ -1,0 +1,5 @@
+Utilizar linguagem de programação JAVA, para desenvolvimento do aplicativo 
+para as plataformas Andriod e IOS. 
+Desenvolver aplicativo exclusivo para os condutores. 
+
+
